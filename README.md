@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.gbogie.com/"><img width="80%" alt="Hey! I'm Gavin Bogie and I do Open Source!" src="./images/hey.png" /></a></p>
+<div align="center"><a href="https://www.gbogie.com/"><img width="80%" alt="Hey! I'm Gavin Bogie and I do Open Source!" src="./images/hey.png" /></a></div>
 
 ### I am a Software and Web Developer that loves working with the latest technology and building _Blazingly Fast_ applications.
 
@@ -14,9 +14,7 @@
 # Check out my stats!
 
 <div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GavBog&count_private=true&hide_rank=true&show_icons=true&theme=tokyonight&locale=en)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=GavBog&show_icons=true&theme=tokyonight&locale=en)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GavBog&theme=tokyonight)
-
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=GavBog&count_private=true&hide_rank=true&show_icons=true&theme=tokyonight&locale=en" alt="Github Stats"/>
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GavBog&show_icons=true&theme=tokyonight&locale=en" alt="Top Languages"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=GavBog&theme=tokyonight" alt="Github Streak"/>
 </div>
