@@ -7,7 +7,7 @@
 - 🔨 Building Awesome Web Apps!
 - 📚 Learning WebAssembly (Jun 2023)
 - ❤️ I love building userbases to suggest improvements to my work!
-- 💬 Contact me Via [Email](mailto:gbogie13@gmail.com), [LinkedIn](https://www.linkedin.com/in/gavin-bogie-027ba1231/), [Twitter](https://twitter.com/LegendaryBob13), or here on [Github](https://github.com/GavBog/GavBog/discussions/1}).
+- 💬 Contact me Via [Email](mailto:gbogie13@gmail.com), [LinkedIn](https://www.linkedin.com/in/gbog/), [Twitter](https://twitter.com/GavBog13/), or here on [Github](https://github.com/GavBog/GavBog/discussions/1).
 
 <br />
 
